@@ -1,0 +1,16 @@
+/action-fully-loaded.yaml
+/baseuri-not-defined.yaml
+/empty-body.raml
+/full-config.yaml
+/media-type-reference.yaml
+/media-type.yaml
+/null-elements.yaml
+/resource-dup.yaml
+/resource-nested.yaml
+/resource-not-defined.yaml
+/root-elements-includes.yaml
+/root-elements.yaml
+/security.yaml
+/tag-resolver.yaml
+/title-not-defined.yaml
+/title-too-long.yaml

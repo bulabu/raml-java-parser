@@ -1,0 +1,10 @@
+/BaseURIRuleTestCase.class
+/DocumentationTestCase.class
+/IncludeRulesTestCase.class
+/RamlSpecValidationTestCase.class
+/ResourceTypeValidationTestCase.class
+/ResourcesTestCase.class
+/SchemaRuleTestCase.class
+/TitleRuleTestCase.class
+/UnknownRuleTestCase.class
+/UriParametersRuleTestCase.class
